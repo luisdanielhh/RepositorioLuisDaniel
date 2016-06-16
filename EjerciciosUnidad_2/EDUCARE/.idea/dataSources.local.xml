@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails EDUCARE: development" uuid="4fa0e72e-5d80-4b3e-add0-189e10a681a9">
+      <user-name>postgres</user-name>
+      <user-password>dfdadfc5dfd9dfcddfd8dfcfdfd9</user-password>
+      <schema-pattern>educare.pg_catalog educare.public</schema-pattern>
+      <default-schemas>educare.public</default-schemas>
+    </data-source>
+    <data-source name="Rails EDUCARE: test" uuid="6be40fa6-ae5f-420b-af82-217021c736b4" />
+    <data-source name="Rails EDUCARE: production" uuid="7001df3d-0690-4661-a3a1-4bb171085e5f">
+      <user-name>EDUCARE</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfefdfeedfffdfe9dfebdff8dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
